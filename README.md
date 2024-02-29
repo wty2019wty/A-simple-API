@@ -1,7 +1,8 @@
 # A-simple-API
 A simple API to connect to genshinvoice.top
 
-我是用KSWEB(https://kslabs.ru/)在本地安卓设备上搭建API，用于接入https://github.com/jing332/tts-server-android
+我是用KSWEB在本地安卓设备上搭建API，
+用于接入tts-server-android
 #测试
 http://localhost:8080/?speed=1&role=空_ZH&text=我是神里绫华的狗。
 http://localhost:8080/?speed=1&role=托帕_ZH&text=我喜欢你
