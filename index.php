@@ -40,7 +40,7 @@ $data = array(
                     "",
                     0.7),
         "event_data" => null,
-        "fn_index" => 1
+        "fn_index" => 0
         );
 
 
